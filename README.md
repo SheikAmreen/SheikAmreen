@@ -24,6 +24,11 @@ A skilled Informatica Developer with three years of expertise in designing, deve
 - Sri Ramakrishna college of Arts & Science (Autonomous) Coimbatore, Tamil nadu, India.
 - Computer Application , CGPA – 8.4
 
+- Master of Computer Science (Jun 2024)
+- Jain University Bangalore, Karnataka, India.
+- Aritificial Intelligence ,CGPA - 9.2
+
+
 ### CERTIFICATIONS 📜
 - Got certificate from IBM Developer Skills Network (SQL and Relational Databases 101).
 
