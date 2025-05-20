@@ -3,7 +3,7 @@
 A skilled Informatica Developer with three years of expertise in designing, developing, and deploying ETL processes using Informatica PowerCenter. Proficient in data extraction, transformation, and loading from diverse sources such as flat files, Oracle, SQL Server, and Excel. Experienced in performance tuning, error handling, and working in data warehousing environments.
 
 ## Experience 💼
-### Asociate Software Engineer
+### Junior Software Engineer
 #### Cognizant | Dec 2021 – Present | Coimbatore, Tamilnadu – Hybrid
 - Developed and implemented ETL workflows and mappings in Informatica PowerCenter to extract, transform, and load (ETL) data from flat files and Oracle into the data warehouse.
 - Scheduled and managed batch processing jobs using Control-M for seamless data integration.
