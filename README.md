@@ -1,6 +1,6 @@
 ## Hi there I'm Sheik Amreen
 ### About me
-Informatica Application Support Engineer with 4+ years of experience in managing and optimizing ETL processes using Informatica PowerCenter. Skilled in performance tuning, error handling, and supporting complex data warehousing concepts to ensure data quality, high availability, and timely delivery across all pipelines. Strong analytical skills with proven ability to manage multiple priorities effectively.
+Informatica Application Support Engineer with 4+ years of experience in managing and optimizing ETL processes using Informatica PowerCenter and IDMC. Skilled in performance tuning, error handling, and supporting complex data warehousing concepts to ensure data quality, high availability, and timely delivery across all pipelines. Strong analytical skills with proven ability to manage multiple priorities effectively.
 
 ## Experience 💼
 ### Junior Software Engineer
