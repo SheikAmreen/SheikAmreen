@@ -1,11 +1,11 @@
 ## Hi there I'm Sheik Amreen
 ### About me
-A skilled Informatica Developer with three years of expertise in designing, developing, and deploying ETL processes using Informatica PowerCenter. Proficient in data extraction, transformation, and loading from diverse sources such as flat files, Oracle, SQL Server, and Excel. Experienced in performance tuning, error handling, and working in data warehousing environments.
+Informatica Application Support Engineer with 4+ years of experience in managing and optimizing ETL processes using Informatica PowerCenter. Skilled in performance tuning, error handling, and supporting complex data warehousing concepts to ensure data quality, high availability, and timely delivery across all pipelines. Strong analytical skills with proven ability to manage multiple priorities effectively.
 
 ## Experience 💼
 ### Junior Software Engineer
 #### Cognizant | Dec 2021 – Present | Coimbatore, Tamilnadu – Hybrid
-- Developed and implemented ETL workflows and mappings in Informatica PowerCenter to extract, transform, and load (ETL) data from flat files and Oracle into the data warehouse.
+- Extensive experience in Insurance domain with Rich exposure in production support.
 - Scheduled and managed batch processing jobs using Control-M for seamless data integration.
 - Hands-on experience with SQL, ensuring accurate data management and query optimization.
 - Skilled in debugging and resolving reported issues, applying structured troubleshooting techniques to enhance system stability.
